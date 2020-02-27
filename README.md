@@ -1,1 +1,1 @@
-# UGent_Machine-Learning-Project
+# UGent Machine Learning Project
