@@ -4,3 +4,5 @@ seaborn
 pandas
 scikit-learn
 nltk
+gensim
+pyLDAvis
