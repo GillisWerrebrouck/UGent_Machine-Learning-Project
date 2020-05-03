@@ -49,3 +49,4 @@ data/complaints-2020-01-22_08_24.csv
 # exclude large models and saved data
 doc2vec_model.docvecs.vectors_docs.npy
 vectorized_complaints_cleaned.pkl
+dataset_excluding_outliers.csv
