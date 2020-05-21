@@ -6,3 +6,4 @@ scikit-learn
 nltk
 gensim
 pyLDAvis
+wordcloud
