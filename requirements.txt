@@ -9,3 +9,4 @@ pyLDAvis
 wordcloud
 keras
 pytextrank
+spacy
