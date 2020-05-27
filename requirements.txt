@@ -8,3 +8,5 @@ gensim
 pyLDAvis
 wordcloud
 keras
+pytextrank
+spacy
