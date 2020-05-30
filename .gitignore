@@ -45,3 +45,11 @@ geckodriver.log
 
 # exclude the original dataset
 data/complaints-2020-01-22_08_24.csv
+
+# exclude large models and saved data
+doc2vec_model
+doc2vec_model.docvecs.vectors_docs.npy
+vectorized_complaints_cleaned.pkl
+hierarchical_linkage_model.pkl
+dataset_excluding_outliers.csv
+dataset_new_clusters.csv
